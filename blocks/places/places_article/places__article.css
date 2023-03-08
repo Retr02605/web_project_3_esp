@@ -1,0 +1,8 @@
+.places__article{
+    font-family: 'Inter';
+    font-style: normal;
+    color: #FFFFFF;
+    display: grid;
+    grid-template-columns: repeat(2,1fr );   
+    gap: 20px 30px;
+}

@@ -1,0 +1,22 @@
+.intro__quote_author {
+  margin: 0 auto;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 34px;
+  text-align: right;
+  color: #FFFFFF;
+}
+
+@media screen and (min-width: 768px) {
+  .intro__footer {
+    padding-bottom: 32px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .intro__footer {
+    padding-right: 297px;
+}
+}

@@ -1,0 +1,29 @@
+.lead__subtitle {
+  color: #ffffff;
+  margin: 0 auto;
+  padding-bottom: 40px;
+  width: 288px;
+  height: 40px;
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: center;
+}
+
+@media screen and (min-width: 768px) {
+  .lead__subtitle {
+    width: 720px;
+    height: 72px;
+    font-size: 30px;
+    line-height: 36px;
+    padding-bottom: 69px;
+}
+}
+
+@media screen and (min-width: 1280px) {
+  .lead__subtitle {
+    padding-bottom: 64px;
+  }
+}

@@ -1,0 +1,22 @@
+.intro {
+  margin: 0 auto;
+  width: 288px;
+  height: 958px;
+  padding: 44px 16px 38px;
+}
+
+@media screen and (min-width: 768px) {
+  .intro {
+    width: 720px;
+    height: 607px;
+    padding: 55px 24px 64px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .intro {
+    padding: 92px 115px 92px 148px;
+    width: 1017px;
+    height: 516px;
+}
+}

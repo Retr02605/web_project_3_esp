@@ -1,0 +1,23 @@
+.cover__content {
+  width: 320px;
+  height: 254px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url(../../../images/gallery__item5.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+@media screen and (min-width: 768px) {
+  .cover__content {
+    width: 768px;
+    height: 746px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  .cover__content {
+    width: 1184px;
+    height: 740px;
+}
+}

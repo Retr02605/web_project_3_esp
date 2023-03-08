@@ -1,0 +1,20 @@
+.place__button {
+    width: 355px;
+    height: 48px;
+    background: #0278FE;
+    border-radius: 4px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 22px;
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+  
+  .place__button:hover {
+    background-color: #0063D2;
+  }
