@@ -7,3 +7,7 @@
   color: #FFFFFF;
   text-decoration: none;
 }
+
+.cover__button-link:hover {
+  color: gray;
+}

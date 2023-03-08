@@ -7,3 +7,6 @@
     color: #FFFFFF;
     text-decoration: none;
 }
+.place__link:hover {
+    color: gray;
+}
