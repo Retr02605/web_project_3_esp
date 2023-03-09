@@ -18,3 +18,11 @@
   .place-button:hover {
     background-color: #0063D2;
   }
+
+  @media  screen and (min-width: 320px) {
+    .place-button{
+      width: 288px;
+      height: 48px;
+      margin-top: 50px;
+    }
+  }

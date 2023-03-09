@@ -10,3 +10,12 @@
 .place-link:hover {
     color: gray;
 }
+@media screen and (min-width: 320px) {
+    .place-link{
+        font-family: 'Inter';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 14px;
+        line-height: 17px;
+    }
+}
