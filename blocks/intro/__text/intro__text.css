@@ -1,4 +1,4 @@
-.intro__text {
+.intro-text {
   margin: 0 auto;
   font-family: 'Inter';
   font-style: normal;
@@ -9,7 +9,7 @@
 }
 
 @media screen and (min-width: 1280px) {
-  .intro__text {
+  .intro-text {
     padding-right: 297px;
 }
 }

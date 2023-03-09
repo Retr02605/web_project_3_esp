@@ -1,4 +1,4 @@
-.intro__quote_author {
+.intro-quote-author {
   margin: 0 auto;
   font-family: 'Inter';
   font-style: normal;
@@ -10,13 +10,13 @@
 }
 
 @media screen and (min-width: 768px) {
-  .intro__footer {
+  .intro-quote-author {
     padding-bottom: 32px;
   }
 }
 
 @media screen and (min-width: 1280px) {
-  .intro__footer {
+  .intro-quote-author {
     padding-right: 297px;
 }
 }

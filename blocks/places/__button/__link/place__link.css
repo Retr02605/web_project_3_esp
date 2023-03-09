@@ -1,4 +1,4 @@
-.place__link{
+.place-link{
     font-family: 'Inter';
     font-style: normal;
     font-weight: 600;
@@ -7,6 +7,6 @@
     color: #FFFFFF;
     text-decoration: none;
 }
-.place__link:hover {
+.place-link:hover {
     color: gray;
 }
