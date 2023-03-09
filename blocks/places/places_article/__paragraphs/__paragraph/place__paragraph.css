@@ -8,7 +8,7 @@
 }
 
 
-@media screen and (min-width: 320px) {
+@media screen and (max-width: 320px) {
     .place-paragraph{
         font-family: 'Inter';
         font-style: normal;
